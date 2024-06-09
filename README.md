@@ -1,1 +1,4 @@
 # backend-boilerplate
+
+- NestJS
+- Golang
